@@ -1,4 +1,4 @@
-/*lista 2 exercicio 1. Ler um número e determinar se ele é maior ou igual ou menor do que zero*/
+/*lista 4 exercicio 1. Ler dois valores e imprimir o maior dos dois*/
 import java.util.Scanner;
 
 import javax.lang.model.util.ElementScanner6;
