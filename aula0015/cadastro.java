@@ -117,7 +117,7 @@ public class cadastro {
                         leia.nextLine();
                         nome = leia.nextLine();
                         for(int i = 0; i < listap.size(); i++){
-                            if(listap.get(i).getNome() == nome){
+                            if(listap.get(i).getNome().equals(nome)){
                                 listap.remove(i);
                             }
                         }
